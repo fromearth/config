@@ -17,11 +17,11 @@ let loaded_matchparen=1
 "
 set nobackup
 set noundofile
-"�N���b�v�{�[�h��Windows�ƘA�g
+"クリップボードをWindowsと連携
 source $VIMRUNTIME/mswin.vim
-"�ő�1000�s�܂ŕ����R�[�h����Ɏg�p
+"最大1000行まで文字コード判定に使用
 let g:verifyenc_maxlines = 1000
-"�������s�@�\Off
+"自動改行機能Off
 set textwidth=0
 set formatoptions=q
 "
