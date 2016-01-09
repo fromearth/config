@@ -1,3 +1,12 @@
+##############################################################
+# .bashrc設定メモ
+#
+# @filename bashrc.txt
+# @category Configs
+# @package  ConfigsBashrc
+# @author   fromearth
+# @link     https://github.com/fromearth
+##############################################################
 ### ログイン時に bash_profile から呼び出される形で実行される。
 ### 別のシェルが起動したときにも実行される。
 ### 修正したものを再ログインしないで反映させるには source ~/.bashrc と打つ
