@@ -1,7 +1,7 @@
 ##############################################################
 # .bashrc設定メモ
 #
-# @filename bashrc.txt
+# @filename .bashrc
 # @category Configs
 # @package  ConfigsBashrc
 # @author   fromearth
@@ -32,3 +32,4 @@ PS1="[\u@\h \W]\$ "
 # Gitを使う場合は以下のプロンプトが便利
 #source ~/.git-completion.bash
 #PS1="[\u@\h \W\$(__git_ps1)]\$ "
+

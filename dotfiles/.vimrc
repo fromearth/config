@@ -1,7 +1,7 @@
 ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 " .vimrc設定
 "
-" @filename vimrc.txt
+" @filename .vimrc
 " @category Configs
 " @package  ConfigsVimrc
 " @author   fromearth
@@ -92,3 +92,4 @@ endif
 if exists('s:_indentchar') && s:_indentchar == 'space'
     set expandtab
 endif
+
