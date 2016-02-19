@@ -8,7 +8,7 @@
 " @link     https://github.com/fromearth
 ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; 設定 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 let s:_encoding = 'utf-8'   " 新規ファイルencoding {'utf-8' or 'cp932'}
-let s:_fileformat = 'dos'   " 新規ファイル改行方式 {'unix' or 'dos'}
+let s:_fileformat = 'unix'  " 新規ファイル改行方式 {'unix' or 'dos'}
 let s:_indentwidth = 4      " インデント幅   {2 or 4}
 let s:_indentchar = 'space' " インデント文字 {'space' or 'tab'}
 ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
